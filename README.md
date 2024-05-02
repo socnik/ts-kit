@@ -27,6 +27,22 @@ This template is a minimal base for any TypeScript project.
 npx degit socnik/ts-kit/templates/universal-minimal/template
 ```
 
+### [Init App](https://github.com/socnik/ts-kit/tree/main/templates/init-app)
+
+This template include only `package.json` file. Optimized for applications.
+
+```shell
+$ npx degit socnik/ts-kit/templates/init-app/template
+```
+
+### [Init Lib](https://github.com/socnik/ts-kit/tree/main/templates/init-lib)
+
+This template include only `package.json` file. Optimized for libraries.
+
+```shell
+$ npx degit socnik/ts-kit/templates/init-lib/template
+```
+
 ---
 
 _Used icons from [Devicon](https://github.com/devicons/devicon/)._

@@ -1,0 +1,24 @@
+{
+  "name": "[[PACKAGE_NAME]]",
+  "version": "0.0.0",
+  "description": "[[DESCRIPTION]]",
+  "license": "[[LICENSE]]",
+  "scripts": {},
+  "author": "[[AUTHOR]]",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/[[USER]]/[[REPO]]"
+  },
+  "homepage": "https://github.com/[[USER]]/[[REPO]]#readme",
+  "bugs": {
+    "url": "https://github.com/[[USER]]/[[REPO]]/issues"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "private": true,
+  "type": "module",
+  "prettier": "@socnik/my-prettier-config",
+  "packageManager": "pnpm@9.0.4"
+}
