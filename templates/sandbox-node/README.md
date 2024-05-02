@@ -1,6 +1,11 @@
 # Sandbox Node
 
+<!-- Source StackBlitz URL: https://stackblitz.com/fork/github/socnik/ts-kit/tree/main/templates/sandbox-node/template?title=TS Kit Sandbox Node.js&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startScript=start:watch&terminalHeight=40 -->
+
+[![Open in Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/socnik/ts-kit/tree/main/templates/sandbox-node/template?title=TS%20Kit%20Sandbox%20Node.js&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startScript=start:watch&terminalHeight=40)
+
 Minimal template for quick experimenting with TypeScript and Node.js. Includes `tsx` to quick run code.
+You can use it with [StackBlitz](https://stackblitz.com).
 
 ## Technologies
 
@@ -73,6 +78,8 @@ Minimal template for quick experimenting with TypeScript and Node.js. Includes `
 ## Get started
 
 ### Download
+
+[![Open in Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/socnik/ts-kit/tree/main/templates/sandbox-node/template?title=TS%20Kit%20Sandbox%20Node.js&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startScript=start:watch&terminalHeight=40)
 
 #### Local
 

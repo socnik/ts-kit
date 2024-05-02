@@ -23,6 +23,8 @@ $ npx degit socnik/ts-kit/TEMPLATE_NAME/template
 
 Minimal template for quick experimenting with TypeScript and Node.js.
 
+[![Open in Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/socnik/ts-kit/tree/main/templates/sandbox-node/template?title=TS%20Kit%20Sandbox%20Node.js&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startScript=start:watch&terminalHeight=40)
+
 ```shell
 $ npx degit socnik/ts-kit/templates/universal-minimal/template
 ```
