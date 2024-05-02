@@ -1,0 +1,23 @@
+{
+  "name": "@socnik/my-prettier-config",
+  "version": "1.0.0",
+  "description": "This is my favorite prettier config for my projects.",
+  "license": "MIT",
+  "scripts": {},
+  "author": "Nikita",
+  "keywords": [],
+  "main": ".prettierrc.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socnik/ts-kit"
+  },
+  "homepage": "git+https://github.com/socnik/ts-kit/tree/main/packages/my-prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/socnik/ts-kit/issues"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "type": "module",
+  "packageManager": "pnpm@9.0.4"
+}

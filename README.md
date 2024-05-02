@@ -9,6 +9,10 @@
 
 **TypeScript powered, opinionated, open source templates collection.**
 
+## Prettier config
+
+This repository also include my Prettier config in [`packages/my-prettier-config`](https://github.com/socnik/ts-kit/tree/main/packages/my-prettier-config), used by templates in this repository. It config published as `@socnik/my-prettier-config`.
+
 ## Templates reference
 
 ### [Sandbox Node](https://github.com/socnik/ts-kit/tree/main/templates/sandbox-node)
