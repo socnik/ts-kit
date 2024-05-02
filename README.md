@@ -14,12 +14,18 @@
 Replace `TEMPLATE_NAME` with selected template name and execute this command:
 
 ```shell
-$ npx degit socnik/ts-kit/TEMPLATE_NAME
+$ npx degit socnik/ts-kit/TEMPLATE_NAME/template
 ```
 
 ## Templates reference
 
-_Come soon..._
+### [Universal Minimal](https://github.com/socnik/ts-kit/tree/main/templates/universal-minimal)
+
+This template is a minimal base for any TypeScript project.
+
+```shell
+npx degit socnik/ts-kit/templates/universal-minimal/template
+```
 
 ---
 
