@@ -2,9 +2,9 @@
   "name": "[[PACKAGE_NAME]]",
   "version": "0.0.0",
   "description": "[[DESCRIPTION]]",
+  "author": "[[AUTHOR]]",
   "license": "[[LICENSE]]",
   "scripts": {},
-  "author": "[[AUTHOR]]",
   "keywords": [],
   "repository": {
     "type": "git",
