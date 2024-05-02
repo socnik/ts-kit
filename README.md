@@ -9,14 +9,6 @@
 
 **TypeScript powered, opinionated, open source templates collection.**
 
-## How use template?
-
-Replace `TEMPLATE_NAME` with selected template name and execute this command:
-
-```shell
-$ npx degit socnik/ts-kit/TEMPLATE_NAME/template
-```
-
 ## Templates reference
 
 ### [Sandbox Node](https://github.com/socnik/ts-kit/tree/main/templates/sandbox-node)
