@@ -1,6 +1,6 @@
 # TypeScript Kit
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
   width="100px"
   height="100px"
 />
@@ -41,6 +41,14 @@ This template include only `package.json` file. Optimized for libraries.
 
 ```shell
 $ npx degit socnik/ts-kit/templates/init-lib/template
+```
+
+### [Init Editorconfig](https://github.com/socnik/ts-kit/tree/main/templates/init-editorconfig)
+
+This template includes `.editorconfig` file template for [Editor Config](https://editorconfig.org/).
+
+```shell
+$ npx degit socnik/ts-kit/templates/init-editorconfig/template
 ```
 
 ---
