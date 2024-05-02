@@ -19,6 +19,14 @@ $ npx degit socnik/ts-kit/TEMPLATE_NAME/template
 
 ## Templates reference
 
+### [Sandbox Node](https://github.com/socnik/ts-kit/tree/main/templates/sandbox-node)
+
+Minimal template for quick experimenting with TypeScript and Node.js.
+
+```shell
+$ npx degit socnik/ts-kit/templates/universal-minimal/template
+```
+
 ### [Universal Minimal](https://github.com/socnik/ts-kit/tree/main/templates/universal-minimal)
 
 This template is a minimal base for any TypeScript project.
