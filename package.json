@@ -1,0 +1,32 @@
+{
+  "name": "ts-kit",
+  "description": "TypeScript powered, opinionated, open source templates collection.",
+  "author": "Nikita",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "typescript",
+    "template"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socnik/ts-kit"
+  },
+  "homepage": "https://github.com/socnik/ts-kit#readme",
+  "bugs": {
+    "url": "https://github.com/socnik/ts-kit/issues"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "private": true,
+  "type": "module",
+  "prettier": "@socnik/my-prettier-config",
+  "packageManager": "pnpm@9.0.4",
+  "devDependencies": {
+    "@socnik/my-prettier-config": "^1.0.0",
+    "prettier": "^3.2.5"
+  }
+}
