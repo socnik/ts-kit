@@ -1,0 +1,51 @@
+{
+  "name": "universal-max",
+  "version": "0.0.0",
+  "description": "[[DESCRIPTION]]",
+  "author": "[[AUTHOR]]",
+  "license": "[[LICENSE]]",
+  "scripts": {
+    "prepare": "husky configs/husky",
+    "lint": "eslint --fix .",
+    "lint:check-only": "eslint .",
+    "lint:inspect": "config-inspector",
+    "check-types": "tsc",
+    "format": "prettier --write .",
+    "commit": "commit"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/[[USER]]/[[REPO]]"
+  },
+  "homepage": "https://github.com/[[USER]]/[[REPO]]#readme",
+  "bugs": {
+    "url": "https://github.com/[[USER]]/[[REPO]]/issues"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "private": true,
+  "type": "module",
+  "prettier": "@socnik/my-prettier-config",
+  "packageManager": "pnpm@9.0.4",
+  "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "@commitlint/prompt-cli": "^19.3.0",
+    "@commitlint/types": "^19.0.3",
+    "@eslint/config-inspector": "^0.4.8",
+    "@socnik/my-prettier-config": "1.0.3",
+    "@types/eslint__js": "^8.42.3",
+    "@types/node": "^20.12.8",
+    "@vue/tsconfig": "^0.5.1",
+    "concurrently": "^8.2.2",
+    "eslint": "^9.1.1",
+    "globals": "^15.1.0",
+    "husky": "^9.0.11",
+    "lint-staged": "^15.2.2",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.8.0"
+  }
+}

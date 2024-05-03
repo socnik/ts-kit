@@ -1,0 +1,11 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.json",
+  "include": ["../../commitlint.config.ts"],
+  "compilerOptions": {
+    "composite": true,
+    "tsBuildInfoFile": "../../node_modules/.cache/typescript/tsconfig.node.tsbuildinfo",
+    "types": ["node"],
+    "rootDir": "../..",
+    "baseUrl": "../.."
+  }
+}

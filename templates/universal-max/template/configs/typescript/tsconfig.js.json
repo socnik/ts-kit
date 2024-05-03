@@ -1,0 +1,15 @@
+{
+  "include": ["../../eslint.config.js"],
+  "compilerOptions": {
+    "composite": true,
+    "tsBuildInfoFile": "../../node_modules/.cache/typescript/tsconfig.js.tsbuildinfo",
+    "noEmit": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "types": ["node"],
+    "allowJs": true,
+    "checkJs": true,
+    "rootDir": "../..",
+    "baseUrl": "../.."
+  }
+}
