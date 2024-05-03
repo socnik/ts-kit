@@ -1,1 +1,4 @@
-pnpm exec concurrently "pnpm exec lint-staged" "pnpm check-types"
+pnpm exec concurrently\
+  "pnpm exec lint-staged"\
+  "pnpm check-types"\
+  "pnpm check-licenses"
