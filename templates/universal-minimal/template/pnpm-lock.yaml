@@ -9,43 +9,15 @@ importers:
   .:
     devDependencies:
       '@socnik/my-prettier-config':
-        specifier: ^1.0.0
-        version: 1.0.0
-      '@vue/tsconfig':
-        specifier: ^0.5.1
-        version: 0.5.1
-      prettier:
-        specifier: ^3.2.5
-        version: 3.2.5
-      typescript:
-        specifier: ^5.4.4
-        version: 5.4.4
+        specifier: 1.0.3
+        version: 1.0.3
 
 packages:
 
-  '@socnik/my-prettier-config@1.0.0':
-    resolution: {integrity: sha512-F9uyvMH5RoUHEE7DLr2qAsDwuUIrfIs2TPX9fQwyq80/UTP7kALVPQQsJXjWSFpnkylfBmhSnl4lApKjjkvpqg==}
-    engines: {node: '>=18.0.0'}
-
-  '@vue/tsconfig@0.5.1':
-    resolution: {integrity: sha512-VcZK7MvpjuTPx2w6blwnwZAu5/LgBUtejFOi3pPGQFXQN5Ela03FUtd2Qtg4yWGGissVL0dr6Ro1LfOFh+PCuQ==}
-
-  prettier@3.2.5:
-    resolution: {integrity: sha512-3/GWa9aOC0YeD7LUfvOG2NiDyhOWRvt1k+rcKhOuYnMY24iiCphgneUfJDyFXd6rZCAnuLBv6UeAULtrhT/F4A==}
-    engines: {node: '>=14'}
-    hasBin: true
-
-  typescript@5.4.4:
-    resolution: {integrity: sha512-dGE2Vv8cpVvw28v8HCPqyb08EzbBURxDpuhJvTrusShUfGnhHBafDsLdS1EhhxyL6BJQE+2cT3dDPAv+MQ6oLw==}
-    engines: {node: '>=14.17'}
-    hasBin: true
+  '@socnik/my-prettier-config@1.0.3':
+    resolution: {integrity: sha512-sym2fbWUC+YeJMg4PhUy2lhQTWe9ZrBMBpjFXe0JlO5ovq6J1/3Ml//9Vl0HXQ0kMAI2gTzc+NsxqkEG3C+PDw==}
+    engines: {node: '>=20.0.0'}
 
 snapshots:
 
-  '@socnik/my-prettier-config@1.0.0': {}
-
-  '@vue/tsconfig@0.5.1': {}
-
-  prettier@3.2.5: {}
-
-  typescript@5.4.4: {}
+  '@socnik/my-prettier-config@1.0.3': {}
