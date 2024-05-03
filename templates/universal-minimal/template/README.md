@@ -1,1 +1,1 @@
-# TypeScript Sandbox
+# Universal Minimal
