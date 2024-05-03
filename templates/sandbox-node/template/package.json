@@ -7,7 +7,7 @@
     "start": "tsx ./src/index.ts",
     "start:watch": "tsx --watch ./src/index.ts",
     "check-types": "tsc",
-    "format": "prettier"
+    "format": "prettier --write ."
   },
   "keywords": [
     "typescript"
