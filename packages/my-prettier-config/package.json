@@ -1,12 +1,15 @@
 {
   "name": "@socnik/my-prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is my favorite prettier config for my projects.",
   "license": "MIT",
   "scripts": {},
   "author": "Nikita",
   "keywords": [],
   "main": ".prettierrc.json",
+  "files": [
+    ".prettierrc.json"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/socnik/ts-kit"
