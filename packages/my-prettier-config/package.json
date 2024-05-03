@@ -1,6 +1,6 @@
 {
   "name": "@socnik/my-prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is my favorite prettier config for my projects.",
   "license": "MIT",
   "scripts": {},
