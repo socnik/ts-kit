@@ -4,7 +4,10 @@
   "description": "This template is a minimal base for any TypeScript project.",
   "author": "John Doe",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "format": "prettier --write .",
+    "check-types": "tsc"
+  },
   "exports": {},
   "bin": {},
   "files": ["LICENSE"],
