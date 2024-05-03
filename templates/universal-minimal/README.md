@@ -70,10 +70,17 @@ This template is a minimal base for any TypeScript project.
 
 <!--#endregion-->
 
-## Get started
+## Usage
+
+### Download
 
 Run this command in the directory where you want to use the template:
 
 ```shell
 $ npx degit socnik/ts-kit/templates/universal-minimal/template
 ```
+
+### Package.json scripts
+
+- `check-types` - check types with tsc
+- `format` - format files with Prettier

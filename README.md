@@ -9,10 +9,6 @@
 
 **TypeScript powered, opinionated, open source templates collection.**
 
-## Prettier config
-
-This repository also include my Prettier config in [`packages/my-prettier-config`](https://github.com/socnik/ts-kit/tree/main/packages/my-prettier-config), used by templates in this repository. It config published as `@socnik/my-prettier-config`.
-
 ## Templates reference
 
 ### [Sandbox Node](https://github.com/socnik/ts-kit/tree/main/templates/sandbox-node)
@@ -31,6 +27,14 @@ This template is a minimal base for any TypeScript project.
 
 ```shell
 npx degit socnik/ts-kit/templates/universal-minimal/template
+```
+
+### [Universal Max](https://github.com/socnik/ts-kit/tree/main/templates/universal-max)
+
+Run this command in the directory where you want to use the template:
+
+```shell
+$ npx degit socnik/ts-kit/templates/universal-max/template
 ```
 
 ### [Init App](https://github.com/socnik/ts-kit/tree/main/templates/init-app)
@@ -56,6 +60,12 @@ This template includes `.editorconfig` file template for [Editor Config](https:/
 ```shell
 $ npx degit socnik/ts-kit/templates/init-editorconfig/template
 ```
+
+## Packages
+
+### Prettier config
+
+This repository also include my Prettier config in [`packages/my-prettier-config`](https://github.com/socnik/ts-kit/tree/main/packages/my-prettier-config), used by templates in this repository. It config published as `@socnik/my-prettier-config`.
 
 ---
 

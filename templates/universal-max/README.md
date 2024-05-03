@@ -74,10 +74,23 @@ This template is a ultimate base for any TypeScript project.
 
 <!--#endregion-->
 
-## Get started
+## Usage
+
+### Download
 
 Run this command in the directory where you want to use the template:
 
 ```shell
 $ npx degit socnik/ts-kit/templates/universal-max/template
 ```
+
+### Package.json scripts
+
+- `prepare` - setup husky
+- `lint` - run ESLint and auto fix problems
+- `lint:check-only` - run ESLint without fix problems
+- `lint:inspect` - inspect ESLint config with `@eslint/config-inspector`
+- `check-types` - check types with tsc
+- `check-licenses` - check licenses with `license-checker`
+- `format` - format files with Prettier
+- `commit` - run Git commit cli by CommitLint
