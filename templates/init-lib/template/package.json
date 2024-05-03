@@ -1,21 +1,21 @@
 {
-  "name": "[[PACKAGE_NAME]]",
+  "name": "init-lib",
   "version": "0.0.0",
-  "description": "[[DESCRIPTION]]",
-  "author": "[[AUTHOR]]",
-  "license": "[[LICENSE]]",
+  "description": "package.json template for libraries",
+  "author": "John Doe",
+  "license": "MIT",
   "scripts": {},
   "exports": {},
   "bin": {},
-  "files": [],
+  "files": ["LICENSE"],
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/[[USER]]/[[REPO]]"
+    "url": "git+https://github.com/socnik/example"
   },
-  "homepage": "https://github.com/[[USER]]/[[REPO]]#readme",
+  "homepage": "https://github.com/socnik/example#readme",
   "bugs": {
-    "url": "https://github.com/[[USER]]/[[REPO]]/issues"
+    "url": "https://github.com/socnik/example/issues"
   },
   "engines": {
     "node": ">=20.0.0"
