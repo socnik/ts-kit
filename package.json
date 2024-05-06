@@ -1,15 +1,24 @@
 {
   "name": "ts-kit",
-  "description": "TypeScript powered, opinionated, open source templates collection.",
+  "description": "TypeScript powered, opinionated, open source templates collection",
   "author": "Nikita",
   "license": "MIT",
   "scripts": {
-    "format": "prettier --write ."
+    "prepare": "husky configs/husky",
+    "lint": "eslint --fix .",
+    "lint:check-only": "eslint .",
+    "lint:inspect": "config-inspector",
+    "check-types": "tsc",
+    "check-licenses": "license-checker --excludePrivatePackages --onlyAllow MIT;ISC;GNU;Apache;BSD",
+    "format": "prettier --write .",
+    "commit": "commit"
   },
-  "keywords": [
-    "typescript",
-    "template"
+  "exports": {},
+  "bin": {},
+  "files": [
+    "LICENSE"
   ],
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/socnik/ts-kit"
@@ -26,7 +35,23 @@
   "prettier": "@socnik/my-prettier-config",
   "packageManager": "pnpm@9.0.4",
   "devDependencies": {
-    "@socnik/my-prettier-config": "^1.0.3",
-    "prettier": "^3.2.5"
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "@commitlint/prompt-cli": "^19.3.0",
+    "@commitlint/types": "^19.0.3",
+    "@eslint/config-inspector": "^0.4.8",
+    "@socnik/my-prettier-config": "1.0.3",
+    "@types/eslint__js": "^8.42.3",
+    "@types/node": "^20.12.8",
+    "@vue/tsconfig": "^0.5.1",
+    "concurrently": "^8.2.2",
+    "eslint": "^9.1.1",
+    "globals": "^15.1.0",
+    "husky": "^9.0.11",
+    "license-checker": "^25.0.1",
+    "lint-staged": "^15.2.2",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.8.0"
   }
 }
