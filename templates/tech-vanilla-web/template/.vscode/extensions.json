@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig",
+    "aaron-bond.better-comments",
+    "dbaeumer.vscode-eslint",
+    "formulahendry.auto-complete-tag",
+    "vitest.explorer",
+    "dotenv.dotenv-vscode",
+    "stylelint.vscode-stylelint"
+  ]
+}

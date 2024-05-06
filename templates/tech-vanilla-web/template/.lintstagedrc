@@ -1,0 +1,5 @@
+{
+  "$schema": "https://json.schemastore.org/lintstagedrc.schema.json",
+  "*": "pnpm exec prettier --write --ignore-unknown",
+  "*.{js,ts}": "pnpm exec eslint --fix"
+}

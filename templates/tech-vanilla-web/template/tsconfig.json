@@ -1,0 +1,17 @@
+{
+  "include": [],
+  "references": [
+    {
+      "path": "./configs/typescript/tsconfig.node.json"
+    },
+    {
+      "path": "./configs/typescript/tsconfig.js.json"
+    },
+    {
+      "path": "./configs/typescript/tsconfig.src.json"
+    },
+    {
+      "path": "./configs/typescript/tsconfig.test.json"
+    }
+  ]
+}

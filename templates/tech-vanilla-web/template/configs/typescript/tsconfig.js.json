@@ -1,0 +1,14 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.json",
+  "include": ["../../eslint.config.js"],
+  "compilerOptions": {
+    "composite": true,
+    "tsBuildInfoFile": "../../node_modules/.cache/typescript/tsconfig.js.tsbuildinfo",
+    "types": ["node"],
+    "lib": [],
+    "allowJs": true,
+    "checkJs": true,
+    "rootDir": "../..",
+    "baseUrl": "../.."
+  }
+}
