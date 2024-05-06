@@ -1,0 +1,4 @@
+pnpm exec concurrently\
+  "pnpm exec lint-staged --config .lintstagedrc"\
+  "pnpm check-types"\
+  "pnpm check-licenses"

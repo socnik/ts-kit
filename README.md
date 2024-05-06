@@ -24,7 +24,7 @@
 - [`lib-node`](#lib-node)
 - [`lib-web`](#lib-web) (_Planned..._)
 - [`lib-vue-plugin`](#lib-vue-plugin) (_Planned_)
-- [`lib-eslint-config`](#lib-eslint-config) (_Planned_)
+- [`lib-eslint-config`](#lib-eslint-config)
 - [`universal-minimal`](#universal-minimal)
 - [`universal-max`](#universal-max)
 - [`init-app`](#init-app)
@@ -101,7 +101,11 @@ _Planned_
 
 ### Lib ESLint Config
 
-_Planned_
+Template for ESLint shared config.
+
+```shell
+npx degit socnik/ts-kit/templates/lib-eslint-config
+```
 
 ### [Universal Minimal](https://github.com/socnik/ts-kit/tree/main/templates/universal-minimal)
 
