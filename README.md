@@ -81,9 +81,13 @@ Template for build cross-env library.
 npx degit socnik/ts-kit/templates/lib-crossenv
 ```
 
-### Lib Node
+### [Lib Node](https://github.com/socnik/ts-kit/tree/main/templates/lib-node)
 
-_Come soon..._
+Template for build Node.js library.
+
+```shell
+npx degit socnik/ts-kit/templates/lib-node
+```
 
 ### Lib Web
 

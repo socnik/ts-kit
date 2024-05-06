@@ -1,0 +1,77 @@
+{
+  "name": "lib-crossenv",
+  "version": "0.0.0",
+  "description": "Template for build node library",
+  "author": "John Doe",
+  "license": "MIT",
+  "scripts": {
+    "prepare": "husky configs/husky",
+    "build": "vite build",
+    "test:unit": "vitest",
+    "test:unit:ui": "vitest --ui",
+    "test:unit:update": "vitest --update",
+    "test:bench": "vitest bench --run",
+    "cover:unit": "vitest --run --coverage",
+    "lint:js": "eslint --fix .",
+    "lint:js:check-only": "eslint .",
+    "lint:js:inspect": "config-inspector",
+    "lint:spell": "cspell lint .",
+    "check-types": "tsc",
+    "check-licenses": "license-checker --excludePrivatePackages --onlyAllow MIT;ISC;GNU;Apache;BSD",
+    "format": "prettier --write .",
+    "commit": "commit"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "LICENSE",
+    "dist"
+  ],
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socnik/example"
+  },
+  "homepage": "https://github.com/socnik/example#readme",
+  "bugs": {
+    "url": "https://github.com/socnik/example/issues"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "private": true,
+  "type": "module",
+  "prettier": "@socnik/my-prettier-config",
+  "packageManager": "pnpm@9.0.4",
+  "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "@commitlint/prompt-cli": "^19.3.0",
+    "@commitlint/types": "^19.0.3",
+    "@eslint/config-inspector": "^0.4.8",
+    "@socnik/my-prettier-config": "1.0.3",
+    "@types/eslint__js": "^8.42.3",
+    "@types/node": "^20.12.8",
+    "@vitest/coverage-v8": "^1.6.0",
+    "@vitest/ui": "^1.6.0",
+    "@vue/tsconfig": "^0.5.1",
+    "concurrently": "^8.2.2",
+    "cspell": "^8.8.0",
+    "eslint": "^9.1.1",
+    "globals": "^15.1.0",
+    "husky": "^9.0.11",
+    "license-checker": "^25.0.1",
+    "lint-staged": "^15.2.2",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.8.0",
+    "vite": "^5.2.11",
+    "vite-plugin-dts": "^3.9.1",
+    "vitest": "^1.6.0"
+  }
+}

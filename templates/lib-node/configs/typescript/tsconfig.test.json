@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.src.json",
+  "exclude": [],
+  "compilerOptions": {
+    "composite": true,
+    "tsBuildInfoFile": "../../node_modules/.cache/typescript/tsconfig.test.tsbuildinfo",
+    "types": ["node", "vitest/globals"]
+  }
+}
