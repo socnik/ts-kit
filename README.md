@@ -1,5 +1,7 @@
 # TypeScript Kit
 
+![GitHub License](https://img.shields.io/github/license/socnik/ts-kit?style=flat)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
   width="100px"
   height="100px"
