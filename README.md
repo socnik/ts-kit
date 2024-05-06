@@ -11,6 +11,22 @@
 
 ## Templates reference
 
+- [`sandbox-web`](#sandbox-web)
+- [`sandbox-node`](#sandbox-node)
+- [`sandbox-vue`](#sandbox-vue) (_Planned_)
+- [`sandbox-vuetify`](#sandbox-vuetify) (_Planned_)
+- [`tech-vanilla-web`](#tech-vanilla-web)
+- [`tech-vue`](#tech-vue) (_Planned_)
+- [`tech-vuetify`](#tech-vuetify) (_Planned_)
+- [`lib-crossenv`](#lib-crossenv) (_Come soon..._)
+- [`lib-node`](#lib-node) (_Come soon..._)
+- [`lib-web`](#lib-web) (_Planned..._)
+- [`universal-minimal`](#universal-minimal)
+- [`universal-max`](#universal-max)
+- [`init-app`](#init-app)
+- [`init-lib`](#init-lib)
+- [`init-editorconfig`](#init-editorconfig)
+
 ### [Sandbox Web](https://github.com/socnik/ts-kit/tree/main/templates/sandbox-web)
 
 Minimal template for quick experimenting with Web + TypeScript + Vite.
@@ -31,6 +47,14 @@ Minimal template for quick experimenting with TypeScript and Node.js.
 $ npx degit socnik/ts-kit/templates/sandbox-node
 ```
 
+### Sandbox Vue
+
+_Planned_
+
+### Sandbox Vuetify
+
+_Planned_
+
 ### [Tech Vanilla Web](https://github.com/socnik/ts-kit/tree/main/templates/tech-vanilla-web)
 
 This template is a ultimate base for vanilla web project with Vite+TypeScript.
@@ -38,6 +62,26 @@ This template is a ultimate base for vanilla web project with Vite+TypeScript.
 ```shell
 $ npx degit socnik/ts-kit/templates/tech-vanilla-web
 ```
+
+### Tech Vue
+
+_Planned_
+
+### Tech Vuetify
+
+_Planned_
+
+### Lib Crossenv
+
+_Come soon..._
+
+### Lib Node
+
+_Come soon..._
+
+### Lib Web
+
+_Planned_
 
 ### [Universal Minimal](https://github.com/socnik/ts-kit/tree/main/templates/universal-minimal)
 
