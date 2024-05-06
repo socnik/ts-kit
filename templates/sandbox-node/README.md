@@ -18,7 +18,7 @@ You can use it with [StackBlitz](https://stackblitz.com).
 Run this command in the directory where you want to use the template:
 
 ```shell
-$ npx degit socnik/ts-kit/templates/universal-minimal/template
+$ npx degit socnik/ts-kit/templates/sandbox-node/template
 ```
 
 ### Package.json scripts
