@@ -1,0 +1,30 @@
+{
+  "name": "tech-vanilla-web",
+  "description": "Minimal template for quick experimenting with Web + TypeScript + Vite",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check-types": "tsc --build",
+    "format": "prettier --write ."
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "private": true,
+  "type": "module",
+  "prettier": "@socnik/my-prettier-config",
+  "packageManager": "pnpm@8.15.6",
+  "devDependencies": {
+    "@types/node": "^20.12.8",
+    "@vue/tsconfig": "^0.5.1",
+    "autoprefixer": "^10.4.19",
+    "normalize.css": "^8.0.1",
+    "postcss-nested": "^6.0.1",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11",
+    "vitest": "^1.5.3"
+  }
+}
