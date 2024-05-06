@@ -1,17 +1,13 @@
 {
   "name": "sandbox-node",
-  "version": "0.0.0",
   "description": "Minimal template for quick experimenting with TypeScript and Node.js",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "start": "tsx ./src/index.ts",
     "start:watch": "tsx --watch ./src/index.ts",
     "check-types": "tsc",
     "format": "prettier --write ."
   },
-  "keywords": [
-    "typescript"
-  ],
   "engines": {
     "node": ">=18.0.0"
   },
