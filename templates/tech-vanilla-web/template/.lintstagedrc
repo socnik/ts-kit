@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/lintstagedrc.schema.json",
-  "*": "pnpm exec prettier --write --ignore-unknown",
+  "*": ["pnpm exec prettier --write --ignore-unknown", "pnpm exec cspell"],
   "*.{js,ts}": "pnpm exec eslint --fix",
   "*.ts": "pnpm exec vitest --run related",
   "*.css": "pnpm exec stylelint --fix"

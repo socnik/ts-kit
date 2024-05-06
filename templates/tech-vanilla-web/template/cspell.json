@@ -1,0 +1,20 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "version": "0.2",
+  "language": "en",
+  "ignorePaths": [
+    "pnpm-lock.yaml",
+    "package.json",
+    "dist",
+    "reports",
+    ".vscode"
+  ],
+  "allowCompoundWords": true,
+  "dictionaries": ["terms"],
+  "dictionaryDefinitions": [
+    {
+      "name": "terms",
+      "path": "./configs/cspell/workspaceTermsDict.txt"
+    }
+  ]
+}
