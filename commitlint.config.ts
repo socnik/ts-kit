@@ -21,7 +21,6 @@ export default {
         'test',
       ],
     ],
-    'scope-empty': [RuleConfigSeverity.Error, 'always'],
   },
   prompt: {
     messages: {
@@ -130,7 +129,7 @@ export default {
       },
     },
     settings: {
-      enableMultipleScopes: false,
+      enableMultipleScopes: true,
       scopeEnumSeparator: ',',
     },
   },
