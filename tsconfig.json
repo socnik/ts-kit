@@ -6,9 +6,6 @@
     },
     {
       "path": "./configs/typescript/tsconfig.js.json"
-    },
-    {
-      "path": "./configs/typescript/tsconfig.src.json"
     }
   ]
 }
