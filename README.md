@@ -73,7 +73,7 @@ _Planned_
 
 _Planned_
 
-### Lib Crossenv
+### [Lib Crossenv](https://github.com/socnik/ts-kit/tree/main/templates/lib-crossenv)
 
 Template for build cross-env library.
 
