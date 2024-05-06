@@ -23,6 +23,8 @@
 - [`lib-crossenv`](#lib-crossenv)
 - [`lib-node`](#lib-node) (_Come soon..._)
 - [`lib-web`](#lib-web) (_Planned..._)
+- [`lib-vue-plugin`](#lib-vue-plugin) (_Planned_)
+- [`lib-eslint-config`](#lib-eslint-config) (_Planned_)
 - [`universal-minimal`](#universal-minimal)
 - [`universal-max`](#universal-max)
 - [`init-app`](#init-app)
@@ -90,6 +92,14 @@ npx degit socnik/ts-kit/templates/lib-node
 ```
 
 ### Lib Web
+
+_Planned_
+
+### Lib Vue Plugin
+
+_Planned_
+
+### Lib ESLint Config
 
 _Planned_
 
