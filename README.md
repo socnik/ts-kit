@@ -21,7 +21,7 @@
 - [`tech-vue`](#tech-vue) (_Planned_)
 - [`tech-vuetify`](#tech-vuetify) (_Planned_)
 - [`lib-crossenv`](#lib-crossenv)
-- [`lib-node`](#lib-node) (_Come soon..._)
+- [`lib-node`](#lib-node)
 - [`lib-web`](#lib-web) (_Planned..._)
 - [`lib-vue-plugin`](#lib-vue-plugin) (_Planned_)
 - [`lib-eslint-config`](#lib-eslint-config) (_Planned_)
