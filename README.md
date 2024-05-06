@@ -20,7 +20,7 @@
 - [`tech-vanilla-web`](#tech-vanilla-web)
 - [`tech-vue`](#tech-vue) (_Planned_)
 - [`tech-vuetify`](#tech-vuetify) (_Planned_)
-- [`lib-crossenv`](#lib-crossenv) (_Come soon..._)
+- [`lib-crossenv`](#lib-crossenv)
 - [`lib-node`](#lib-node) (_Come soon..._)
 - [`lib-web`](#lib-web) (_Planned..._)
 - [`universal-minimal`](#universal-minimal)
@@ -75,7 +75,11 @@ _Planned_
 
 ### Lib Crossenv
 
-_Come soon..._
+Template for build cross-env library.
+
+```shell
+npx degit socnik/ts-kit/templates/lib-crossenv
+```
 
 ### Lib Node
 
