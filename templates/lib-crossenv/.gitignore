@@ -3,3 +3,9 @@ node_modules
 
 # To Do files
 TODO*.md
+
+# Vite
+dist
+
+# Vitest
+reports

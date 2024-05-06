@@ -2,7 +2,13 @@
   "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
   "version": "0.2",
   "language": "en",
-  "ignorePaths": ["pnpm-lock.yaml", "package.json", ".vscode"],
+  "ignorePaths": [
+    "pnpm-lock.yaml",
+    "package.json",
+    ".vscode",
+    "dist",
+    "reports"
+  ],
   "allowCompoundWords": true,
   "dictionaries": ["terms"],
   "dictionaryDefinitions": [

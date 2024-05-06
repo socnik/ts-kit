@@ -1,2 +1,8 @@
 # Pnpm
 pnpm-lock.yaml
+
+# Vite
+dist
+
+# Vitest
+reports
