@@ -11,6 +11,16 @@
 
 ## Templates reference
 
+### [Sandbox Web](https://github.com/socnik/ts-kit/tree/main/templates/sandbox-web)
+
+Minimal template for quick experimenting with Web + TypeScript + Vite.
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/socnik/ts-kit/tree/main/templates/sandbox-web/template?title=TS%20Kit%20Sandbox%20Web&file=index.html&startScript=dev)
+
+```shell
+$ npx degit socnik/ts-kit/templates/sandbox-web/template
+```
+
 ### [Sandbox Node](https://github.com/socnik/ts-kit/tree/main/templates/sandbox-node)
 
 Minimal template for quick experimenting with TypeScript and Node.js.
