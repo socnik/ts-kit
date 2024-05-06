@@ -13,12 +13,6 @@
     "format": "prettier --write .",
     "commit": "commit"
   },
-  "exports": {},
-  "bin": {},
-  "files": [
-    "LICENSE"
-  ],
-  "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/socnik/ts-kit"
