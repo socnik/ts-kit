@@ -21,6 +21,14 @@ Minimal template for quick experimenting with TypeScript and Node.js.
 $ npx degit socnik/ts-kit/templates/universal-minimal/template
 ```
 
+### [Tech Vanilla Web](https://github.com/socnik/ts-kit/tree/main/templates/tech-vanilla-web)
+
+This template is a ultimate base for vanilla web project with Vite+TypeScript.
+
+```shell
+$ npx degit socnik/ts-kit/templates/tech-vanilla-web/template
+```
+
 ### [Universal Minimal](https://github.com/socnik/ts-kit/tree/main/templates/universal-minimal)
 
 This template is a minimal base for any TypeScript project.
