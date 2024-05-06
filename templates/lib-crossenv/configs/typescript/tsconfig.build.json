@@ -6,6 +6,7 @@
     "noEmit": false,
     "emitDeclarationOnly": true,
     "types": [],
+    "lib": [],
     "rootDir": "../..",
     "baseUrl": "../..",
     "paths": {
