@@ -15,7 +15,7 @@
 
 Minimal template for quick experimenting with Web + TypeScript + Vite.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/socnik/ts-kit/tree/main/templates/sandbox-web/template?title=TS%20Kit%20Sandbox%20Web&file=index.html&startScript=dev)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/socnik/ts-kit/tree/main/templates/sandbox-web?title=TS%20Kit%20Sandbox%20Web&file=index.html&startScript=dev)
 
 ```shell
 $ npx degit socnik/ts-kit/templates/sandbox-web
@@ -25,7 +25,7 @@ $ npx degit socnik/ts-kit/templates/sandbox-web
 
 Minimal template for quick experimenting with TypeScript and Node.js.
 
-[![Open in Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/socnik/ts-kit/tree/main/templates/sandbox-node/template?title=TS%20Kit%20Sandbox%20Node.js&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startScript=start:watch&terminalHeight=40)
+[![Open in Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/socnik/ts-kit/tree/main/templates/sandbox-node?title=TS%20Kit%20Sandbox%20Node.js&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startScript=start:watch&terminalHeight=40)
 
 ```shell
 $ npx degit socnik/ts-kit/templates/sandbox-node
