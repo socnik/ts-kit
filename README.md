@@ -36,7 +36,7 @@ Minimal template for quick experimenting with Web + TypeScript + Vite.
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/socnik/ts-kit/tree/main/templates/sandbox-web?title=TS%20Kit%20Sandbox%20Web&file=index.html&startScript=dev)
 
 ```shell
-$ npx degit socnik/ts-kit/templates/sandbox-web
+npx degit socnik/ts-kit/templates/sandbox-web
 ```
 
 ### [Sandbox Node](https://github.com/socnik/ts-kit/tree/main/templates/sandbox-node)
@@ -46,7 +46,7 @@ Minimal template for quick experimenting with TypeScript and Node.js.
 [![Open in Stackblitz](https://developer.stackblitz.com/img/open_in_stackblitz_small.svg)](https://stackblitz.com/fork/github/socnik/ts-kit/tree/main/templates/sandbox-node?title=TS%20Kit%20Sandbox%20Node.js&file=src/index.ts&hideNavigation=true&hidedevtools=true&view=editor&startScript=start:watch&terminalHeight=40)
 
 ```shell
-$ npx degit socnik/ts-kit/templates/sandbox-node
+npx degit socnik/ts-kit/templates/sandbox-node
 ```
 
 ### Sandbox Vue
@@ -62,7 +62,7 @@ _Planned_
 This template is a ultimate base for vanilla web project with Vite+TypeScript.
 
 ```shell
-$ npx degit socnik/ts-kit/templates/tech-vanilla-web
+npx degit socnik/ts-kit/templates/tech-vanilla-web
 ```
 
 ### Tech Vue
@@ -98,7 +98,7 @@ npx degit socnik/ts-kit/templates/universal-minimal
 Run this command in the directory where you want to use the template:
 
 ```shell
-$ npx degit socnik/ts-kit/templates/universal-max
+npx degit socnik/ts-kit/templates/universal-max
 ```
 
 ### [Init App](https://github.com/socnik/ts-kit/tree/main/templates/init-app)
@@ -106,7 +106,7 @@ $ npx degit socnik/ts-kit/templates/universal-max
 This template include only `package.json` file. Optimized for applications.
 
 ```shell
-$ npx degit socnik/ts-kit/templates/init-app
+npx degit socnik/ts-kit/templates/init-app
 ```
 
 ### [Init Lib](https://github.com/socnik/ts-kit/tree/main/templates/init-lib)
@@ -114,7 +114,7 @@ $ npx degit socnik/ts-kit/templates/init-app
 This template include only `package.json` file. Optimized for libraries.
 
 ```shell
-$ npx degit socnik/ts-kit/templates/init-lib
+npx degit socnik/ts-kit/templates/init-lib
 ```
 
 ### [Init Editorconfig](https://github.com/socnik/ts-kit/tree/main/templates/init-editorconfig)
@@ -122,7 +122,7 @@ $ npx degit socnik/ts-kit/templates/init-lib
 This template includes `.editorconfig` file template for [Editor Config](https://editorconfig.org/).
 
 ```shell
-$ npx degit socnik/ts-kit/templates/init-editorconfig
+npx degit socnik/ts-kit/templates/init-editorconfig
 ```
 
 ## Packages
