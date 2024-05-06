@@ -11,6 +11,14 @@
 
 **TypeScript powered, opinionated, open source templates collection.**
 
+---
+
+## :warning: Beta
+
+Most of the templates in this repository are in beta-state. Part of the features may not work.
+
+---
+
 ## Templates reference
 
 - [`sandbox-web`](#sandbox-web)
