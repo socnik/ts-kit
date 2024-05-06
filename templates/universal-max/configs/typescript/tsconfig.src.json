@@ -5,6 +5,7 @@
     "composite": true,
     "tsBuildInfoFile": "../../node_modules/.cache/typescript/tsconfig.src.tsbuildinfo",
     "types": [],
+    "lib": [],
     "rootDir": "../..",
     "baseUrl": "../..",
     "paths": {
