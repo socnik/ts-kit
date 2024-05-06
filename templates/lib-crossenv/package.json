@@ -1,7 +1,7 @@
 {
   "name": "lib-crossenv",
   "version": "0.0.0",
-  "description": "",
+  "description": "Template for build cross-env library",
   "author": "John Doe",
   "license": "MIT",
   "scripts": {
