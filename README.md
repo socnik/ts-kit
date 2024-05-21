@@ -155,12 +155,6 @@ This template includes `.editorconfig` file template for [Editor Config](https:/
 npx degit socnik/ts-kit/templates/init-editorconfig
 ```
 
-## Packages
-
-### Prettier config
-
-This repository also include my Prettier config in [`packages/my-prettier-config`](https://github.com/socnik/ts-kit/tree/main/packages/my-prettier-config), used by templates in this repository. It config published as `@socnik/my-prettier-config`.
-
 ---
 
 _Used icons from [Devicon](https://github.com/devicons/devicon/)._
